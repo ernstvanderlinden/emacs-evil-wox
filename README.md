@@ -12,6 +12,7 @@ To enable **wox** on Emacs startup, add the following to your init.el:
 
 ```elisp
 (require 'wox)
+(wox-mode)
 ;; enable globally on emacs startup
 ;; (wox-save-global-enable)
 ```

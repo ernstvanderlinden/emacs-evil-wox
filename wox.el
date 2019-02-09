@@ -30,6 +30,9 @@
 ;; To enable wox on Emacs startup, add following to your init.el:
 ;;
 ;;   (require 'wox)
+;;   (wox-mode)
+;;   ;; enable globally on emacs startup
+;;   ;; ;;(wox-save-global-enable)
 ;;
 ;; Once added to your init.el and/or evaluated code above, following
 ;; interactive functions will be available:
