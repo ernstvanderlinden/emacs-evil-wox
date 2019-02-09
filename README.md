@@ -17,7 +17,6 @@ To enable **wox** on Emacs startup, add the following to your init.el:
 ```
 
 #### Dependency
-*None*
 This package depends on [evil](https://melpa.org/#/evil), so please make sure that has been installed as well.
 
 Usage
