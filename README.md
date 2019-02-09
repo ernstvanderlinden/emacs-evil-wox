@@ -21,7 +21,6 @@ This package depends on [evil](https://melpa.org/#/evil), so please make sure th
 
 Usage
 -----
-
 #### Interactive functions
 - M-x ```wox-save-global-toggle```
 - M-x ```wox-save-global-enable```
@@ -37,5 +36,4 @@ Usage
 #### Example 2 - binding to toggle
 ```elisp
 (global-set-key (kbd "C-c C-w") 'wox-save-local-toggle)
-```
 ```
